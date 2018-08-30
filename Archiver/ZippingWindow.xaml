@@ -1,0 +1,21 @@
+﻿<Window x:Name="Zipping" x:Class="Archiver.ZippingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Archiver"
+        mc:Ignorable="d"
+        Title="Архивация" Height="485.526" Width="730.639" ResizeMode="CanMinimize" Closing="Zipping_Closing">
+    <Grid>
+        <ListBox x:Name="FilesListBox" Margin="10,0,151,294" Height="122" VerticalAlignment="Bottom"/>
+        <Label Content="Файлы для добавления" Margin="10,0,562,421" Height="26" VerticalAlignment="Bottom"/>
+        <Button x:Name="AddFilesButton" Content="Добавить файлы" Margin="579,0,10,382" Height="34" Click="AddFilesButton_Click" VerticalAlignment="Bottom"/>
+        <Button x:Name="AddFoldersButton" Content="Добавить папки" Margin="579,0,10,338" Height="34" Click="AddFoldersButton_Click" VerticalAlignment="Bottom"/>
+        <Button x:Name="RemoveButton" Content="Удалить элемент" Margin="579,0,10,294" Height="34" Click="RemoveButton_Click" VerticalAlignment="Bottom"/>
+        <Label Content="Пароль:" Margin="10,0,562,211" Height="26" VerticalAlignment="Bottom"/>
+        <Button x:Name="ZipButton" Content="Архивировать" Margin="375,0,151,211" Click="ZipButton_Click" Height="26" VerticalAlignment="Bottom"/>
+        <ListBox x:Name="LogListBox" Margin="10,0,10,10" Height="122" VerticalAlignment="Bottom"/>
+        <PasswordBox x:Name="PasswordBox" Margin="104,0,405,211" Height="26" VerticalAlignment="Bottom"/>
+
+    </Grid>
+</Window>

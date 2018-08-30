@@ -1,0 +1,33 @@
+﻿<Window x:Name="Main" x:Class="Archiver.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Archiver"
+        mc:Ignorable="d"
+        Title="Архиватор" Height="411.983" Width="450" ResizeMode="NoResize">
+
+  <!--<Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="0*"/>
+      <RowDefinition/>
+    </Grid.RowDefinitions>
+    -->
+    <StackPanel Margin="0">
+    <Menu Background="White">
+    <MenuItem Header="_Файл" Margin="0">
+      <MenuItem Header="_Выход" Click="CloseButton_Click"/>
+    
+    </MenuItem>
+    <MenuItem Header="_Справка">
+                <MenuItem Header="_Автор" Click="AuthorButton_Click"/>
+  </MenuItem>
+    </Menu>
+        <Button x:Name="ZippingButton" Content="Архивировать ZIP" Margin="16,7,16.2,7" Width="411" Height="75" Click="ZippingButton_Click"/>
+        <Button x:Name="UnzippingButton" Content="Разархивировать ZIP" Margin="16,7,16.2,7" Width="411" Height="75" Click="UnzippingButton_Click"/>
+        <Button x:Name="LZWButton" Content="Архивировать LZW" Margin="16.4,7,16.6,7" Width="411" Height="75" Click="LZWButton_Click"/>
+        <Button x:Name="UnLZWButton" Content="Разархивировать LZW" Margin="16.4,7,16.6,7" Width="411" Height="75" Click="UnLZWButton_Click"/>
+
+    </StackPanel>
+  <!--</Grid>-->
+</Window>

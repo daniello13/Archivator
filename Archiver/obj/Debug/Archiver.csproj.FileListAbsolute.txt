@@ -1,0 +1,91 @@
+G:\Богдан Медведев\Archiver\Archiver\obj\Debug\Archiver.csprojResolveAssemblyReference.cache
+G:\Богдан Медведев\Archiver\Archiver\obj\Debug\MainWindow.g.cs
+G:\Богдан Медведев\Archiver\Archiver\obj\Debug\App.g.cs
+G:\Богдан Медведев\Archiver\Archiver\obj\Debug\Archiver_MarkupCompile.cache
+G:\Богдан Медведев\Archiver\Archiver\obj\Debug\Archiver_MarkupCompile.lref
+G:\Богдан Медведев\Archiver\Archiver\bin\Debug\Archiver.exe.config
+G:\Богдан Медведев\Archiver\Archiver\bin\Debug\Archiver.exe
+G:\Богдан Медведев\Archiver\Archiver\bin\Debug\Archiver.pdb
+G:\Богдан Медведев\Archiver\Archiver\obj\Debug\MainWindow.baml
+G:\Богдан Медведев\Archiver\Archiver\obj\Debug\Archiver.g.resources
+G:\Богдан Медведев\Archiver\Archiver\obj\Debug\Archiver.Properties.Resources.resources
+G:\Богдан Медведев\Archiver\Archiver\obj\Debug\Archiver.csproj.GenerateResource.cache
+G:\Богдан Медведев\Archiver\Archiver\obj\Debug\Archiver.csproj.CoreCompileInputs.cache
+G:\Богдан Медведев\Archiver\Archiver\obj\Debug\Archiver.exe
+G:\Богдан Медведев\Archiver\Archiver\obj\Debug\Archiver.pdb
+G:\Богдан Медведев\Archiver\Archiver\obj\Debug\ZippingWindow.g.cs
+G:\Богдан Медведев\Archiver\Archiver\obj\Debug\ZippingWindow.baml
+G:\Богдан Медведев\Archiver\Archiver\obj\Debug\UnzippingWindow.g.cs
+G:\Богдан Медведев\Archiver\Archiver\obj\Debug\UnzippingWindow.baml
+G:\Богдан Медведев\Archiver\Archiver\bin\Debug\zlib.net.dll
+G:\Богдан Медведев\Archiver\Archiver\obj\Debug\Archiver.csproj.CopyComplete
+C:\Users\Hmelium\Downloads\Archiver\Archiver\bin\Debug\Archiver.exe.config
+C:\Users\Hmelium\Downloads\Archiver\Archiver\bin\Debug\Archiver.exe
+C:\Users\Hmelium\Downloads\Archiver\Archiver\bin\Debug\Archiver.pdb
+C:\Users\Hmelium\Downloads\Archiver\Archiver\bin\Debug\zlib.net.dll
+C:\Users\Hmelium\Downloads\Archiver\Archiver\obj\Debug\Archiver.csprojResolveAssemblyReference.cache
+C:\Users\Hmelium\Downloads\Archiver\Archiver\obj\Debug\MainWindow.g.cs
+C:\Users\Hmelium\Downloads\Archiver\Archiver\obj\Debug\UnzippingWindow.g.cs
+C:\Users\Hmelium\Downloads\Archiver\Archiver\obj\Debug\ZippingWindow.g.cs
+C:\Users\Hmelium\Downloads\Archiver\Archiver\obj\Debug\App.g.cs
+C:\Users\Hmelium\Downloads\Archiver\Archiver\obj\Debug\Archiver_MarkupCompile.cache
+C:\Users\Hmelium\Downloads\Archiver\Archiver\obj\Debug\Archiver_MarkupCompile.lref
+C:\Users\Hmelium\Downloads\Archiver\Archiver\obj\Debug\MainWindow.baml
+C:\Users\Hmelium\Downloads\Archiver\Archiver\obj\Debug\UnzippingWindow.baml
+C:\Users\Hmelium\Downloads\Archiver\Archiver\obj\Debug\ZippingWindow.baml
+C:\Users\Hmelium\Downloads\Archiver\Archiver\obj\Debug\Archiver.g.resources
+C:\Users\Hmelium\Downloads\Archiver\Archiver\obj\Debug\Archiver.Properties.Resources.resources
+C:\Users\Hmelium\Downloads\Archiver\Archiver\obj\Debug\Archiver.csproj.GenerateResource.cache
+C:\Users\Hmelium\Downloads\Archiver\Archiver\obj\Debug\Archiver.csproj.CoreCompileInputs.cache
+C:\Users\Hmelium\Downloads\Archiver\Archiver\obj\Debug\Archiver.csproj.CopyComplete
+C:\Users\Hmelium\Downloads\Archiver\Archiver\obj\Debug\Archiver.exe
+C:\Users\Hmelium\Downloads\Archiver\Archiver\obj\Debug\Archiver.pdb
+E:\flash\4 семестр\КУРСАЧ\Archiver\Archiver\bin\Debug\Archiver.exe.config
+E:\flash\4 семестр\КУРСАЧ\Archiver\Archiver\bin\Debug\Archiver.exe
+E:\flash\4 семестр\КУРСАЧ\Archiver\Archiver\bin\Debug\Archiver.pdb
+E:\flash\4 семестр\КУРСАЧ\Archiver\Archiver\bin\Debug\zlib.net.dll
+E:\flash\4 семестр\КУРСАЧ\Archiver\Archiver\obj\Debug\Archiver.csprojResolveAssemblyReference.cache
+E:\flash\4 семестр\КУРСАЧ\Archiver\Archiver\obj\Debug\MainWindow.g.cs
+E:\flash\4 семестр\КУРСАЧ\Archiver\Archiver\obj\Debug\UnzippingWindow.g.cs
+E:\flash\4 семестр\КУРСАЧ\Archiver\Archiver\obj\Debug\ZippingWindow.g.cs
+E:\flash\4 семестр\КУРСАЧ\Archiver\Archiver\obj\Debug\App.g.cs
+E:\flash\4 семестр\КУРСАЧ\Archiver\Archiver\obj\Debug\Archiver_MarkupCompile.cache
+E:\flash\4 семестр\КУРСАЧ\Archiver\Archiver\obj\Debug\Archiver_MarkupCompile.lref
+E:\flash\4 семестр\КУРСАЧ\Archiver\Archiver\obj\Debug\MainWindow.baml
+E:\flash\4 семестр\КУРСАЧ\Archiver\Archiver\obj\Debug\UnzippingWindow.baml
+E:\flash\4 семестр\КУРСАЧ\Archiver\Archiver\obj\Debug\ZippingWindow.baml
+E:\flash\4 семестр\КУРСАЧ\Archiver\Archiver\obj\Debug\Archiver.g.resources
+E:\flash\4 семестр\КУРСАЧ\Archiver\Archiver\obj\Debug\Archiver.Properties.Resources.resources
+E:\flash\4 семестр\КУРСАЧ\Archiver\Archiver\obj\Debug\Archiver.csproj.GenerateResource.Cache
+E:\flash\4 семестр\КУРСАЧ\Archiver\Archiver\obj\Debug\Archiver.exe
+E:\flash\4 семестр\КУРСАЧ\Archiver\Archiver\obj\Debug\Archiver.pdb
+E:\flash\4 семестр\КУРСАЧ\Archiver\Archiver\obj\Debug\AuthorsWindow.g.cs
+E:\flash\4 семестр\КУРСАЧ\Archiver\Archiver\obj\Debug\AuthorsWindow.baml
+E:\Work\Archiver\Archiver\bin\Debug\Archiver.exe.config
+E:\Work\Archiver\Archiver\bin\Debug\Archiver.exe
+E:\Work\Archiver\Archiver\bin\Debug\Archiver.pdb
+E:\Work\Archiver\Archiver\bin\Debug\zlib.net.dll
+E:\Work\Archiver\Archiver\obj\Debug\Archiver.csprojResolveAssemblyReference.cache
+E:\Work\Archiver\Archiver\obj\Debug\AuthorsWindow.g.cs
+E:\Work\Archiver\Archiver\obj\Debug\MainWindow.g.cs
+E:\Work\Archiver\Archiver\obj\Debug\UnzippingWindow.g.cs
+E:\Work\Archiver\Archiver\obj\Debug\ZippingWindow.g.cs
+E:\Work\Archiver\Archiver\obj\Debug\App.g.cs
+E:\Work\Archiver\Archiver\obj\Debug\Archiver_MarkupCompile.cache
+E:\Work\Archiver\Archiver\obj\Debug\Archiver_MarkupCompile.lref
+E:\Work\Archiver\Archiver\obj\Debug\AuthorsWindow.baml
+E:\Work\Archiver\Archiver\obj\Debug\MainWindow.baml
+E:\Work\Archiver\Archiver\obj\Debug\UnzippingWindow.baml
+E:\Work\Archiver\Archiver\obj\Debug\ZippingWindow.baml
+E:\Work\Archiver\Archiver\obj\Debug\Archiver.g.resources
+E:\Work\Archiver\Archiver\obj\Debug\Archiver.Properties.Resources.resources
+E:\Work\Archiver\Archiver\obj\Debug\Archiver.csproj.GenerateResource.Cache
+E:\Work\Archiver\Archiver\obj\Debug\Archiver.csproj.CoreCompileInputs.cache
+E:\Work\Archiver\Archiver\obj\Debug\Archiver.exe
+E:\Work\Archiver\Archiver\obj\Debug\Archiver.pdb
+E:\Work\Archiver\Archiver\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Work\Archiver\Archiver\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\Work\Archiver\Archiver\obj\Debug\LZW_Window.g.cs
+E:\Work\Archiver\Archiver\obj\Debug\UnLZW_Window.g.cs
+E:\Work\Archiver\Archiver\obj\Debug\LZW_Window.baml
+E:\Work\Archiver\Archiver\obj\Debug\UnLZW_Window.baml

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" dslVersion="1.0.0.0" Id="0bcbe71d-d767-45fd-ac4b-ae0dea58be64" name="UMLClassDiagram1" linkedPackageId="c1ebedc5-72d2-4119-a4d9-7c99d826bb07" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <profileInstances>
+    <packageHasProfileInstances Id="3778e3b0-bc3c-4207-a130-33de0f0340a5">
+      <profileInstance Id="5b9d103b-d746-444f-95b8-839f7e97f49f" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="1d0d9a5d-cafa-4514-9091-4628f69277d3">
+      <profileInstance Id="a109f3f8-d019-4a24-857a-c1194116f342" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <logicalClassDesignerModelHasPackages>
+      <package Id="5afa8ddb-f470-42d1-82a4-36faee6b2b1f" name="Archiver">
+        <elementDefinition Id="9210dbd8-06f7-4e17-94f9-b5a76240b93a" />
+        <packagedElements>
+          <packageHasNamedElement>
+            <class Id="ac200d0a-5ee2-4302-8ce6-0dc824f2d63e" name="ArchiveProvider" isAbstract="false" isLeaf="false" isActiveClass="false">
+              <elementDefinition Id="00f019a6-14d3-46bc-ae6f-bb875ff35e13" />
+            </class>
+          </packageHasNamedElement>
+          <packageHasNamedElement>
+            <class Id="b21761cd-b34b-449d-b31b-6fca08da85e2" name="CompressFile" isAbstract="false" isLeaf="false" isActiveClass="false">
+              <elementDefinition Id="c9d98910-9aa7-41d7-a94f-d23befa5e9c4" />
+            </class>
+          </packageHasNamedElement>
+          <packageHasNamedElement>
+            <class Id="cf69c2c8-c7ad-402c-9d2f-3f32487ce8b2" name="EncryptFile" isAbstract="false" isLeaf="false" isActiveClass="false">
+              <elementDefinition Id="0f915924-20d9-4ee3-ba70-02961dd9a0de" />
+            </class>
+          </packageHasNamedElement>
+        </packagedElements>
+      </package>
+    </logicalClassDesignerModelHasPackages>
+  </packagedElements>
+  <package Id="c1ebedc5-72d2-4119-a4d9-7c99d826bb07" name="ArchiverModel">
+    <elementDefinition Id="52444b2f-c48b-4e3c-93fd-5123f86667e4" />
+  </package>
+</logicalClassDesignerModel>
