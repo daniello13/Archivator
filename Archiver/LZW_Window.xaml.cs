@@ -24,7 +24,7 @@ namespace Archiver
             InitializeComponent();
             
         }
-        LZW arch = new LZW();
+        
 
         private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
         {
@@ -34,7 +34,8 @@ namespace Archiver
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-
+            LZW arch = new LZW();
+            arch.Compress(t1.Text, t2.Text);
         }
     }
 }

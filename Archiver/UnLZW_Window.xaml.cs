@@ -23,5 +23,17 @@ namespace Archiver
         {
             InitializeComponent();
         }
+
+        private void but_Click(object sender, RoutedEventArgs e)
+        {
+            LZW arch = new LZW();
+            arch.Decompress(t1.Text, t2.Text);
+        }
+
+        private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            MainWindow main = new MainWindow();
+            main.Show();
+        }
     }
 }

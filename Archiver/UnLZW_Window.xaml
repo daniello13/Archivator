@@ -5,13 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Archiver"
         mc:Ignorable="d"
-        Title="UnLZW_Window" Height="208.562" Width="300">
+        Title="UnLZW_Window" Height="208.562" Width="300" Closing="Window_Closing">
     <Grid>
         <Label Content="Введите имя файла для разархивации" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="19,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="t1" HorizontalAlignment="Left" Height="23" Margin="10,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="272"/>
         <Label Content="Введите имя конечного файла" HorizontalAlignment="Left" Margin="10,69,0,0" VerticalAlignment="Top"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="19,100,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-        <Button Content="Выполнить" HorizontalAlignment="Left" Margin="10,128,0,0" VerticalAlignment="Top" Width="272" Height="39"/>
+        <TextBox x:Name="t2" HorizontalAlignment="Left" Height="23" Margin="10,100,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="272"/>
+        <Button x:Name="but" Content="Выполнить" HorizontalAlignment="Left" Margin="10,128,0,0" VerticalAlignment="Top" Width="272" Height="39" Click="but_Click"/>
 
     </Grid>
 </Window>
