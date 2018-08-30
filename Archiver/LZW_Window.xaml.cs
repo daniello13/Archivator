@@ -22,6 +22,19 @@ namespace Archiver
         public LZW_Window()
         {
             InitializeComponent();
+            
+        }
+        LZW arch = new LZW();
+
+        private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            MainWindow main = new MainWindow();
+            main.Show();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
